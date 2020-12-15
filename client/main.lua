@@ -1,6 +1,6 @@
 --[[ Additions to cayo-perico for FiveM by KrizFrost ]]
 
-local IslandZone = BoxZone:Create(vector3(5113.64, -5141.78, 2.25), 2000, 2000, {
+local IslandZone = BoxZone:Create(vector3(5113.64, -5141.78, 2.25), 2400, 2400, {
     name="island",
     heading=0,
     debugPoly = false
